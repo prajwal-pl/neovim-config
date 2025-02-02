@@ -1,3 +1,3 @@
 return {
-  "",
+  { "hererocks", enabled = false },
 }
